@@ -1,4 +1,5 @@
-- 👋 Hi there, I’m <Strong>Suraj Birajdar</strong>
+ 👋 Hi there, I’m <Strong>Suraj Birajdar</strong>
+ <br>
 - I am  BE graduate in <strong>Mechanical Engineering </strong>
 - Let's discuss on Python, SQL, HTML, CSS
 - 👀 I’m interested in gaining knowledge📕
